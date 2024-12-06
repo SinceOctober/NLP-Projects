@@ -19,3 +19,5 @@ In this course, we will focus on three key learning objectives:
 - Use pre-trained NLP text embedding models from **TensorFlow Hub**.  
 - Perform **transfer learning** to fine-tune models on real-world text data.  
 - Visualize **model performance metrics** using TensorBoard.  
+
+## Fine Tune BERT for Text Classification with TensorFlow
