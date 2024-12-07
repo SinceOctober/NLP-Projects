@@ -21,3 +21,10 @@ In this course, we will focus on three key learning objectives:
 - Visualize **model performance metrics** using TensorBoard.  
 
 ## Fine Tune BERT for Text Classification with TensorFlow
+
+This hands-on, project-based course will take approximately 2 hours to complete. Throughout the course, you will learn how to preprocess text, build input pipelines, and fine-tune a BERT model for text classification tasks using TensorFlow and TensorFlow Hub.  
+
+In this course, we will focus on three key learning objectives:  
+- Build TensorFlow input pipelines for text data using the **tf.data API**.  
+- Tokenize and preprocess text for **BERT**.  
+- Fine-tune a pre-trained **BERT model** for text classification.
